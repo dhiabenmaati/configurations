@@ -1,0 +1,9 @@
+<?xml version="1.1" encoding="UTF-8"?>
+<manifest>
+  <project path="appli" name="xxxs"/>
+
+  <!-- Modules -->
+  <project path="package/xxxxx"                 name=v"th1/th2/gen"  />
+  <project path="package/yyyyy"                 name="th1/th2/eol"   />
+
+</manifest>
